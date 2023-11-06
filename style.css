@@ -1,0 +1,34 @@
+ul{
+    font-family: Agbalumo ; sans-serif ;
+  }
+  .fond{
+    background-color: rgba(113, 255, 113, 0.993);
+    background-size: cover;
+  }
+  .title{
+    font-size: 32px;
+    color: black;
+  }
+ 
+
+  .display:flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+  }
+.carte{
+    border: 2px solid black;
+    width: 350px ;
+    padding: 15px;
+    margin: 20px ;
+}
+.bande1{
+    width: 100%; 
+    background-color: rgba(113, 255, 113, 0.993);
+    background-size: cover;
+    height: 200px;
+}
+.bande2{
+    border-radius: 1px solid black; 
+    height: 20px; 
+}
