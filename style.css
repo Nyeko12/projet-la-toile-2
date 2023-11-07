@@ -1,13 +1,13 @@
 ul{
-    font-family: Agbalumo ; sans-serif ;
+    font-family: Agbalumo ; sans-serif; 
   }
   .fond{
-    background-color: rgba(113, 255, 113, 0.993);
+    background-color: beige;
     background-size: cover;
   }
   .title{
-    font-size: 32px;
-    color: black;
+    font-size: 36px;
+    color: brown;
   }
  
 
@@ -21,14 +21,21 @@ ul{
     width: 350px ;
     padding: 15px;
     margin: 20px ;
+    height: 100%;
+    background-color: beige;
+    
 }
 .bande1{
-    width: 100%; 
+    width: 300px; 
     background-color: rgba(113, 255, 113, 0.993);
     background-size: cover;
     height: 200px;
 }
 .bande2{
-    border-radius: 1px solid black; 
-    height: 20px; 
+    border: 2px solid gray; 
+    text-align: center;
+    width: 300px;
+    padding: 5px;
+    margin: 20px ;
 }
+
